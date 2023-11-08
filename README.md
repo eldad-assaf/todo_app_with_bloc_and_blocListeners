@@ -28,6 +28,9 @@ The app uses several BLoCs to manage the state and logic of the todo list.
 
 <p float="left">
   <img src="images/all.png" alt="" width="300" />
+  <img src="images/active.png" alt="" width="300" />
+  <img src="images/completed.png" alt="" width="300" />
+  <img src="images/search.png" alt="" width="300" />
 
 
 </p>
