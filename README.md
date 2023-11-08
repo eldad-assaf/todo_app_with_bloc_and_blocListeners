@@ -26,3 +26,8 @@ The app uses several BLoCs to manage the state and logic of the todo list.
 * `TodoSearchBloc`: Handles search operations on the todo list.
 
 
+<p float="left">
+  <img src="images/all.png" alt="" width="300" />
+
+
+</p>
